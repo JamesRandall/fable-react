@@ -10,7 +10,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.8.1",
     "lowdb": "^1.0.0",
-    "marked": "^0.6.1",
+    "marked": "^0.7.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "showdown": "^1.9.0"
